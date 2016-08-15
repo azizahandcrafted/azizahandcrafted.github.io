@@ -97,7 +97,7 @@ font-family: 'Cinzel', serif;
 color: rgba(255, 255, 255, 1);
 bottom: 10%;
 left: 30%;
-width: 50vw;
+width: 40vw;
 z-index: 1000;
 position: absolute;
 animation: emailAnimation 12s linear;
